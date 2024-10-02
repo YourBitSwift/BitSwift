@@ -66,10 +66,7 @@ We've partnered with [scripters.shop](https://scripters.shop) to combine technic
 
 ### Signature Elements
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/YourBitSwift/BitSwift/blob/main/assets/footer.png" alt="Footer" width="30%">
   <img src="https://github.com/YourBitSwift/BitSwift/blob/main/assets/icons.png" alt="Icons" width="30%">
-  <img src="https://github.com/YourBitSwift/BitSwift/blob/main/assets/logo.jpg" alt="Logo" width="30%">
 </div>
 
 ## 📱 Stay Connected, Stay Informed
