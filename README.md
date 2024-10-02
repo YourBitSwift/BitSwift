@@ -1,10 +1,15 @@
 # ₿itSwift! ᗢ - Revolutionizing DeFi
 
-![₿itSwift Banner](https://github.com/YourBitSwift/BitSwift/blob/main/assets/banner-black.png)
+<p align="center">
+  <img src="https://github.com/YourBitSwift/BitSwift/raw/main/assets/banner1.png" alt="₿itSwift Banner" style="width: 80%; border-radius: 15px;">
+</p>
 
 ## 🌟 Introduction to the Future of DeFi
 
-Welcome to ₿itSwift! ᗢ, where we're redefining the landscape of decentralized finance. Led by our visionary CEO, Commander 🎖️, we're on a mission to simplify DeFi and make it accessible to everyone.
+<p align="center">
+  Welcome to ₿itSwift! ᗢ, where we're redefining the landscape of decentralized finance. Led by our visionary CEO, Commander 🎖️, we're on a mission to simplify DeFi and make it accessible to everyone.
+</p>
+
 
 ## 💡 Our Mission: Democratizing DeFi
 
