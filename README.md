@@ -52,11 +52,6 @@ We've partnered with [scripters.shop](https://scripters.shop) to combine technic
   </table>
 </div>
 
-## 🌐 Engaging with the BitSwift Community
-
-Join our thriving community:
-- 💬 [BitSwiftDeFi](https://t.me/BitSwiftDeFi) - Telegram DeFi Channel
-- 📢 [YourBitSwift](https://t.me/YourBitSwift) - Telegram Official Channel
 
 ## 🎨 Brand Identity: A Visual Journey
 
@@ -76,7 +71,8 @@ Join our thriving community:
 
 - 🐙 GitHub: [@YourBitSwift](https://github.com/YourBitSwift)
 - 📣 Telegram: [@BitSwiftOfficial](https://t.me/BitSwiftOfficial)
-
+- 📢 [YourBitSwift](https://t.me/YourBitSwift) - Telegram Official Channel
+  
 ## 💫 Leadership: Steering the DeFi Revolution
 
 Commander 🎖️ leads with three core principles:
