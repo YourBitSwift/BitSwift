@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YourBitSwift/BitSwift/raw/main/assets/banner1.png" alt="₿itSwift Banner" style="width: 10%; border-radius: 15px;">
+  <img src="https://github.com/YourBitSwift/BitSwift/raw/main/assets/banner1.png" alt="₿itSwift Banner" style="width: 30%; border-radius: 15px;">
 </p>
 
 ## 🌟 Introduction
